@@ -1,0 +1,10 @@
+name: 'Bubblesort Simulation'
+description: 'This module is a simulation of the classic Java Bubblesort application.'
+package: D8
+project: 'D8 Custom'
+type: module
+version: 1.0
+core: 8.x
+
+libraries:
+- bubblesort/bubblesort

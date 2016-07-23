@@ -1,0 +1,6 @@
+bubblesort.admin:
+  title: 'Bubblesort Configurations'
+  description: 'This module is a simulation of the classic Java Bubblesort application.'
+  parent: system.admin_config_development
+  route_name: bubblesort.settings
+  weight: 10

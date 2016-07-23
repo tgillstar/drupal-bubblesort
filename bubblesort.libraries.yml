@@ -1,0 +1,6 @@
+bubblesort:
+  version: 1.0
+  css:
+      base:
+        css/bubblesort.css: {}
+        css/skeleton.css: {}

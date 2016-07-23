@@ -1,0 +1,15 @@
+bubblesort.form:
+  path: '/bubblesort/form'
+  defaults:
+    _form: 'Drupal\bubblesort\Form\BubblesortForm'
+    _title: 'Bubblesort'
+  requirements:
+    _permission: 'access content'
+
+bubblesort.settings:
+ path: '/admin/config/system/bubblesort'
+ defaults:
+   _form: 'Drupal\bubblesort\Form\BubblesortConfigForm'
+   _title: 'Bubblesort Configurations'
+ requirements:
+   _permission: 'administer site configuration'
