@@ -11,7 +11,7 @@
  * Contains \Drupal\bubblesort\Tests\BubblesortTest.
  */
 
-namespace Drupal\bubblesortTests;
+namespace Drupal\bubblesort\Tests;
 
 use Drupal\simpletest\WebTestBase;
 
